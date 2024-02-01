@@ -1,1 +1,1 @@
-##**How to install Git to your local machine**
+#**How to install Git to your local machine**
