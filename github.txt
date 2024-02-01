@@ -1,0 +1,31 @@
+**To get started with GitHub**
+
+To get started with GitHub, you'll need to create a free personal account on GitHub.com and verify your email address.
+
+Every person who uses GitHub.com signs in to a personal account. Your personal account is your identity on GitHub.com and has a username and profile. For example, see @octocat's profile.
+
+Later, you can explore the different types of accounts that GitHub offers, and decide if you need a billing plan. For more information, see "Types of GitHub accounts" and "GitHub’s plans."
+
+Note that the steps in this article don't apply to Enterprise Managed Users. If your GitHub account has been created for you by your company, you can skip this article and continue to "Hello World."
+
+Signing up for a new personal account
+Navigate to https://github.com/.
+Click Sign up.
+Follow the prompts to create your personal account.
+During sign up, you'll be asked to verify your email address. Without a verified email address, you won't be able to complete some basic GitHub tasks, such as creating a repository.
+
+If you're having problems verifying your email address, there are some troubleshooting steps you can take. For more information, see "Verifying your email address."
+
+Next steps
+Now that you've created your personal account, we'll start to explore the basics of GitHub. In the following tutorial, "Hello World," you'll learn about repositories and how to create one, and you'll be introduced to concepts such as branching, commits, and pull requests.
+
+We strongly recommend that you configure 2FA for your account. 2FA is an extra layer of security that can help keep your account secure. For more information, see "Configuring two-factor authentication."
+
+
+**how ton clone a repository from GitHub.com to your local**
+
+You can clone a repository from GitHub.com to your local computer, or to a codespace, to make it easier to fix merge conflicts, add or remove files, and push larger commits. When you clone a repository, you copy the repository from GitHub.com to your local machine, or to a remote virtual machine when you create a codespace. For more information about cloning to a codespace, see "Creating a codespace for a repository."
+
+Cloning a repository pulls down a full copy of all the repository data that GitHub.com has at that point in time, including all versions of every file and folder for the project. You can push your changes to the remote repository on GitHub.com, or pull other people's changes from GitHub.com. For more information, see "Using Git".
+
+You can clone your existing repository or clone another person's existing repository to contribute to a project.
